@@ -4,7 +4,7 @@ A model for the game left-right-center that is commonly played for money.
 This is cited from [EverybodyWiki](https://en.everybodywiki.com/LCR_(dice_game)) 
 
 
-**Gameplay**
+# Gameplay
 Each player receives at least 3 chips. Players take it in turn to roll three six-sided dice, 
 each of which is marked with "L", "C", "R" on one side, and a single dot on the three remaining sides. 
 For each "L" or "R" thrown, the player must pass one chip to the player to their left or right, respectively. 
